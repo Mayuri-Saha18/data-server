@@ -3223,6 +3223,31 @@
       ]
     }
   ],
+  "books": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+
+    {
+      "id": 2,
+      "image_url": "https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg",
+      "book_name": "Zoo",
+      "author": "Sudev",
+      "genre": "scice",
+      "edition": "2023",
+      "publisher": "Sudev",
+      "cost": 1400,
+      "borrowed": false
+    }
+  ],
   "hardCoded Data": {
     "bankOffers": [
       "Bank Offer10% off on Citi Credit Card and EMI Transactions, up to ₹1,500. On orders of ₹5,000 and aboveT&C",
