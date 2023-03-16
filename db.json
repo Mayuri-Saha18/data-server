@@ -3222,7 +3222,7 @@
         "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
         "type_of_room": "AC",
         "bed_type": "Double",
-        "no_of_persons":"2",
+        "no_of_persons":"3",
         "capacity":"3",
         "cost":"5000",
         "booked":false
@@ -3232,8 +3232,8 @@
         "category": "Suite",
         "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
         "type_of_room": "AC",
-        "bed_type": "Double",
-        "no_of_persons":"2",
+        "bed_type": "single",
+        "no_of_persons":"1",
         "capacity":"3",
         "cost":"6000",
         "booked":false
