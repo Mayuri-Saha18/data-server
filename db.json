@@ -3413,7 +3413,10 @@
       "id": 3
     }
   ],
-  "users": [
+  "users":[
+
+  ],
+  "user": [
     {
       "id": 1,
       "name": "Gertrudis Tatterton",
